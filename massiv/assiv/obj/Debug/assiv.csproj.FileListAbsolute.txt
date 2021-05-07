@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Новая папка (2)\massiv\assiv\bin\Debug\assiv.exe.config
+C:\Users\user\Desktop\Новая папка (2)\massiv\assiv\bin\Debug\assiv.exe
+C:\Users\user\Desktop\Новая папка (2)\massiv\assiv\bin\Debug\assiv.pdb
+C:\Users\user\Desktop\Новая папка (2)\massiv\assiv\obj\Debug\assiv.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\massiv\assiv\obj\Debug\assiv.exe
+C:\Users\user\Desktop\Новая папка (2)\massiv\assiv\obj\Debug\assiv.pdb

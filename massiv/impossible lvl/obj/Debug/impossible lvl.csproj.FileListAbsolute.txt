@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Новая папка (2)\massiv\impossible lvl\bin\Debug\impossible lvl.exe.config
+C:\Users\user\Desktop\Новая папка (2)\massiv\impossible lvl\bin\Debug\impossible lvl.exe
+C:\Users\user\Desktop\Новая папка (2)\massiv\impossible lvl\bin\Debug\impossible lvl.pdb
+C:\Users\user\Desktop\Новая папка (2)\massiv\impossible lvl\obj\Debug\impossible lvl.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\massiv\impossible lvl\obj\Debug\impossible lvl.exe
+C:\Users\user\Desktop\Новая папка (2)\massiv\impossible lvl\obj\Debug\impossible lvl.pdb
